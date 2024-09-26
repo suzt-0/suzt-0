@@ -36,7 +36,7 @@ Here are some of the key projects I've worked on:
 ## 🤝 Connect with Me
 
 - [Facebook](https://www.facebook.com/SujitBhattarai2000)
-- [LinkedIn](https://www.linkedin.com/in/Sujit-Bhattarai)
+- [LinkedIn](https://np.linkedin.com/in/sujit-bhattarai-617b28237?trk=public_profile_samename-profile)
 - [Instagram](https://www.instagram.com/sujitbhtr2000/)
 
 
