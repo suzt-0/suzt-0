@@ -9,13 +9,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on web dev
 <!-- - 🔭 I’m also exploring cloud services and improving my knowledge of **DevOps** -->
 <!-- - ⚡ Fun Fact: I enjoy combining economics concepts with programming challenges in my spare time! -->
 
-<!-- ## 🛠️ Technologies and Tools
+## 🛠️ Technologies and Tools
 
 - **Languages:** PHP, JavaScript, HTML5, CSS3, SQL
 - **Frameworks:** Laravel, Tailwind CSS, Bootstrap
 - **Databases:** MySQL, SQLite
 - **Tools:** Git, GitHub, Composer, Docker, NPM
-- **Others:** REST APIs, Blade, Tailwind UI -->
+- **Others:** REST APIs, Blade, Tailwind UI 
 
 ## 📈 GitHub Stats
 
