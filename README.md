@@ -4,18 +4,26 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on web dev
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning advanced **PHP**, **Laravel**, and **JavaScript** frameworks
-- 💼 Working on a variety of projects, including a **Project Management System** and a **Hotel Management System**
+ - 🌱 I’m currently working with **PHP (Intermediate)**, **Laravel (Intermediate)**, and learning **Node.js (Basic)** and **React (Basic)**
+- 💼 Working on a variety of projects, including a **Project Management System** and **Appointment Management System**
 <!-- - 🔭 I’m also exploring cloud services and improving my knowledge of **DevOps** -->
 <!-- - ⚡ Fun Fact: I enjoy combining economics concepts with programming challenges in my spare time! -->
 
 ## 🛠️ Technologies and Tools
 
 - **Languages:** PHP, JavaScript, HTML5, CSS3, SQL
-- **Frameworks:** Laravel, Tailwind CSS, Bootstrap
-- **Databases:** MySQL, SQLite
-- **Tools:** Git, GitHub, Composer, Docker, NPM
-- **Others:** REST APIs, Blade, Tailwind UI 
+- **Frameworks:** Laravel, Tailwind CSS, Node.JS, React(Library)
+- **Databases:** MySQL, SQLite, MongoDB
+- **Tools:** Git, GitHub, Composer, NPM
+- **Others:** REST APIs, Tailwind UI 
+
+### 🔰 Skill levels
+
+- PHP — Intermediate
+- Laravel — Intermediate
+- Node.js — Basic
+- React — Basic
+- JavaScript — Working knowledge
 
 ## 📈 GitHub Stats
 
