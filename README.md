@@ -31,14 +31,20 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on web dev
 ## 🔥 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suzt-0&layout=compact&theme=radical)
-<!-- 
+
 ## 🚀 Projects
 
 Here are some of the key projects I've worked on:
 
-- [**Project Management System**](https://github.com/suzt-0/project-management-system): A Laravel-based system for managing tasks, teams, and projects.
-- [**Hotel Management System**](https://github.com/suzt-0/hotel-management-system): A PHP-based hotel record-keeping system.
-- [**Portfolio Website**](https://github.com/suzt-0/portfolio-website): My personal website showcasing my work and skills. -->
+- [**Easy Appoint**](https://github.com/suzt-0/project-management-system):
+- A Laravel-based system for managing appointments in health care based organization while adhereing to the FHIR standards for improving interoperability.
+- Used Gmail's smtp for user login and appointment status updates.
+- [**Weather App**](https://github.com/suzt-0/project-management-system):
+- A simple Laravel-based to display current weather details based on location.
+- A simple utilization of Weather api and how it can be used to get data from the authenticated apis.
+- Also used caching to cache recent responses.
+  
+
 
 ## 🤝 Connect with Me
 
