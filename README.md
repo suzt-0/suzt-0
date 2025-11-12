@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on web dev
 ## 👨‍💻 About Me
 
  - 🌱 I’m currently working with **PHP (Intermediate)**, **Laravel (Intermediate)**, and learning **Node.js (Basic)** and **React (Basic)**
-- 💼 Working on a variety of projects, including a **Project Management System** and **Appointment Management System**
 <!-- - 🔭 I’m also exploring cloud services and improving my knowledge of **DevOps** -->
 <!-- - ⚡ Fun Fact: I enjoy combining economics concepts with programming challenges in my spare time! -->
 
