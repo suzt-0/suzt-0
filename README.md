@@ -24,16 +24,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on web dev
 - React — Basic
 - JavaScript — Working knowledge
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=suzt-0&show_icons=true&theme=radical)
-
-## 🔥 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suzt-0&layout=compact&theme=radical)
-
-## 🚀 Projects
-
 Here are some of the key projects I've worked on:
 
 - [**Easy Appoint**](https://github.com/suzt-0/easy-appoint):
@@ -47,11 +37,7 @@ Here are some of the key projects I've worked on:
 
 
 ## 🤝 Connect with Me
-
-- [Facebook](https://www.facebook.com/SujitBhattarai2000)
-- [LinkedIn](https://np.linkedin.com/in/sujit-bhattarai-617b28237?trk=public_profile_samename-profile)
-- [Instagram](https://www.instagram.com/sujitbhtr2000/)
-
+-[Mail: suztbhttr@gmail.com]
 
 ---
 
